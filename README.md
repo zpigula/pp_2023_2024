@@ -17,10 +17,10 @@ Stretch goals:
 # 2024 Personal Project 
 ## Navigation - Deep Dive & Tuning
 Learn more about ROS2 / NAV2, navigation stack configuration and tuning, ways to adjust tunable parameters to obtain the best navigation performance.
-Project Goals:
-- Learn more about ROS2 / NAV2 and navigation stack configuration
-- Learn how to tune navigation system
-- Improve robot navigation in real world
-Objectives:
-- Fine tune NAV2 parameters, enhance navigation performance  / Navigate robot autonomously in real world 
-- Enhance simultaneous localization and mapping (SLAM) performance / Integrate depth camera sensor data, add more robust lidar sensor
+- Project Goals:
+  - Learn more about ROS2 / NAV2 and navigation stack configuration
+  - Learn how to tune navigation system
+  - Improve robot navigation in real world
+- Objectives:
+  - Fine tune NAV2 parameters, enhance navigation performance  / Navigate robot autonomously in real world 
+  - Enhance simultaneous localization and mapping (SLAM) performance / Integrate depth camera sensor data, add more robust lidar sensor
